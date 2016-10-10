@@ -2,13 +2,15 @@
 !*.mod
 !*.emp
 
-!*.pretty/*.kicad_mod
+!/*.pretty/
+/*.pretty/*
+!/*.pretty/*.kicad_mod
 
-!data/**/*.dxf
-!data/**/*.stl
-!data/**/*.step
-!data/**/*.FCstd
-!data/**/*.wings
+!/data/
+!/data/**/
+!/data/**/*
 
-!packages3d/**/*.wrl
+!/packages3d/
+!/packages3d/**/
+!/packages3d/**/*
 
