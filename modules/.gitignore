@@ -2,9 +2,9 @@
 !*.mod
 !*.emp
 
-!/*.pretty/*.kicad_mod
+!*.pretty/*.kicad_mod
 
-!/data/**/*.{dxf,stl,step,FCstd,wings}
+!data/**/*.{dxf,stl,step,FCstd,wings}
 
-!/packages3d/**/*.wrl
+!packages3d/**/*.wrl
 
