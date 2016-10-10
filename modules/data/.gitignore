@@ -1,6 +1,6 @@
 *
-!.dxf
-!.stl
-!.step
-!.FCstd
-!.wings
+!*.dxf
+!*.stl
+!*.step
+!*.FCstd
+!*.wings
