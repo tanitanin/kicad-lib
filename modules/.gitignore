@@ -1,6 +1,13 @@
 *
-!*.pretty
 !*.mod
 !*.emp
-!data
-!packages3d
+
+!/*.pretty/
+
+!/data/*/*.dxf
+!/data/*/*.stl
+!/data/*/*.step
+!/data/*/*.FCstd
+!/data/*/*.wings
+
+!/packages3d/*/*.wrl
