@@ -4,7 +4,11 @@
 
 !*.pretty/*.kicad_mod
 
-!data/**/*.{dxf,stl,step,FCstd,wings}
+!data/**/*.dxf
+!data/**/*.stl
+!data/**/*.step
+!data/**/*.FCstd
+!data/**/*.wings
 
 !packages3d/**/*.wrl
 
